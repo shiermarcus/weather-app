@@ -1,0 +1,6 @@
+# API Keys - DO NOT COMMIT
+config.js
+.env
+
+# Dependencies
+node_modules/
